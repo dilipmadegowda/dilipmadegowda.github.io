@@ -2,6 +2,6 @@
 title: "About"
 permalink : "/about/"
 header:
-  image : "Images/dublin2.jpg"
+  image : "/Images/Dublin3.jpg"
 ---
 I'm an aspiring Data scientist who excels at machine learning , exploratory analysis, Data visualisations.  
